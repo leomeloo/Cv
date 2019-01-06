@@ -1,0 +1,36 @@
+body{
+	background-color: #CEF6F5;
+
+
+}
+
+h1{
+	font-family: sans-serif;
+	color: ;
+	-webkit-text-stroke-width: 0.1px;
+	-webkit-text-stroke-color: #FFF;
+	font-size:50px;
+}
+h4{
+	font-family: sans-serif;
+	margin-left: 250px;
+}
+.teste{
+	margin-left: 250px;
+}
+
+p{
+	margin-left: 350px;
+}
+h2{
+	margin-left: 250px;
+}
+ul{
+	margin-left: 330px;
+}
+table{
+	margin-left: 250px;
+}
+form{
+	margin-left: 250px;
+}
